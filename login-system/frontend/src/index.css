@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom glass input class (used internally but Tailwind classes are already applied) */
+/* You can leave this empty or add any global overrides */
